@@ -16,7 +16,7 @@ It was released in November 2018.
 | Camera (Back)           | Dual: 16 MP, f/1.7, 25mm (wide), 1/2.6", 1.22µm, OIS, PDAF + 20 MP (16 MP effective), f/1.7, 25mm (wide), 1/2.8", 1.0µm, PDAF  |
 | Camera (Front)          | 16 MP, f/2.0, 25mm (wide), 1/3.1", 1.0µm, Auto-HDR, gyro-EIS                                                                   |
 
-Copyright 2018 - CarbonROM.
+Copyright 2018 - AquariOS.
 
 ![OnePlus 6t](https://cdn2.gsmarena.com/vv/pics/oneplus/oneplus-6t-midnight-black.jpg "OnePlus 6t")
 
