@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/carbon_fajita.mk
+    $(LOCAL_DIR)/aquarios_fajita.mk
