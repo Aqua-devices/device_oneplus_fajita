@@ -24,6 +24,10 @@ $(call inherit-product, device/oneplus/fajita/device.mk)
 # Inherit Carbon product configuration
 $(call inherit-product, vendor/aquarios/config/common_full_phone.mk)
 
+# Boot animation
+TARGET_SCREEN_HEIGHT := 2340
+TARGET_SCREEN_WIDTH := 1080
+
 PRODUCT_NAME := aquarios_fajita
 PRODUCT_DEVICE := fajita
 PRODUCT_MANUFACTURER := OnePlus
