@@ -3,10 +3,5 @@
     "repository": "Aqua-devices/device_oneplus_sdm845-common",
     "target_path": "device/oneplus/sdm845-common",
     "branch": "a9-caf"
-  },
-  {
-    "repository": "AquariOS/vendor_interfaces",
-    "target_path": "vendor/interfaces",
-    "branch": "a9-caf"
   }
 ]
